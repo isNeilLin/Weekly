@@ -1,8 +1,8 @@
 # React Native Demo (奇舞周刊)
 
->  参考[Weekly75](https://github.com/fakefish/Weekly75)这个项目
+>  参考[Weekly75](https://github.com/fakefish/Weekly75)这个项目
 
-## 运行demo
+## 运行demo
 
 ```bash
 git clone git@github.com:isNeilLin/Weekly.git
